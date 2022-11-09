@@ -1,0 +1,23 @@
+{
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "args": ["-i"]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "bash",
+    "terminal.integrated.profiles.windows": {
+        "bash": {
+            "path": "bash",
+            "args": ["-i"]
+        }
+    },
+    "terminal.integrated.defaultProfile.osx": "bash",
+    "terminal.integrated.profiles.osx": {
+        "bash": {
+            "path": "bash",
+            "args": ["-i"]
+        }
+    }
+}
